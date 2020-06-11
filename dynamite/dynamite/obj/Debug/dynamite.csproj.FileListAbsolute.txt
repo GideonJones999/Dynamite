@@ -1,0 +1,9 @@
+c:\users\jonesgid000\documents\visual studio 2017\Projects\dynamite\dynamite\bin\Debug\dynamite.exe.config
+c:\users\jonesgid000\documents\visual studio 2017\Projects\dynamite\dynamite\bin\Debug\dynamite.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\dynamite\dynamite\bin\Debug\dynamite.pdb
+c:\users\jonesgid000\documents\visual studio 2017\Projects\dynamite\dynamite\obj\Debug\dynamite.csprojResolveAssemblyReference.cache
+c:\users\jonesgid000\documents\visual studio 2017\Projects\dynamite\dynamite\obj\Debug\dynamite.Form1.resources
+c:\users\jonesgid000\documents\visual studio 2017\Projects\dynamite\dynamite\obj\Debug\dynamite.Properties.Resources.resources
+c:\users\jonesgid000\documents\visual studio 2017\Projects\dynamite\dynamite\obj\Debug\dynamite.csproj.GenerateResource.Cache
+c:\users\jonesgid000\documents\visual studio 2017\Projects\dynamite\dynamite\obj\Debug\dynamite.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\dynamite\dynamite\obj\Debug\dynamite.pdb
